@@ -1,0 +1,23 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+#header-responsive-menu-item:last-child #header-responsive-menu-link {
+    border-bottom: 1px solid #fff;
+}
+.rotate{
+    transform: rotate(180deg);
+    transition: .3s;
+}
+#question-btn{
+    transition: .3s;
+
+}
+.blue{
+    stroke: #5267DF;
+}
+.color{
+    stroke:#FA5959 ;
+}
